@@ -1,0 +1,22 @@
+{
+  "name": "edugit-gulp",
+  "version": "1.0.0",
+  "description": "EduGit-Gulp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minalwws/EduGit-Gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minalwws/EduGit-Gulp/issues"
+  },
+  "homepage": "https://github.com/minalwws/EduGit-Gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
